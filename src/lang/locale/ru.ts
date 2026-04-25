@@ -219,7 +219,7 @@ const lang: Partial<Lang> = {
   // components/Editor/MarkdownEditor.tsx
   Submit: 'Сохранить',
 
-    // Недостающие переводы для полной русификации
+  // Недостающие переводы для полной русификации
   "View as board": "Показать как доску",
   "View as list": "Показать как список",
   "View as table": "Показать как таблицу",
@@ -240,8 +240,6 @@ const lang: Partial<Lang> = {
   "Search Obsidian Vault": "Поиск по хранилищу Obsidian",
   "This setting controls whether clicking the tags displayed below the card title opens the Obsidian search or the Kanban board search.": "Этот параметр определяет, будет ли клик по меткам под заголовком карточки открывать поиск Obsidian или поиск по Kanban-доске.",
   "Inline Metadata": "Встроенные метаданные",
-  "Add tag color": "Добавить цвет метки",
-  "Add date color": "Добавить цвет даты",
   "Tag sort order": "Порядок сортировки меток",
   "Set an explicit sort order for the specified tags.": "Установить порядок сортировки для указанных меток.",
   "List": "Список",
@@ -262,9 +260,6 @@ const lang: Partial<Lang> = {
   "Move to list": "Переместить в список",
   "Sort by tags": "Сортировать по меткам",
   "Sort by": "Сортировать по",
-  "Unable to find": "Не удалось найти",
-  "Open in default app": "Открыть в приложении по умолчанию",
-  "Submit": "Отправить",
   "Add tag": "Добавить метку",
 };
 
