@@ -261,6 +261,7 @@ const lang: Partial<Lang> = {
   "Sort by tags": "Сортировать по меткам",
   "Sort by": "Сортировать по",
   "Add tag": "Добавить метку",
+  "Expand lists to full width in list view": "Разворачивать списки на всю ширину в режиме списка",
 };
 
 export default lang;
