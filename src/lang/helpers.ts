@@ -51,7 +51,7 @@ const localeMap: { [k: string]: Partial<Lang> } = {
 };
 
 const lang = window.localStorage.getItem('language');
-const locale = localeMap[lang || 'en'];
+const locale = localeMap['ru'];
 
 export function t(str: keyof typeof en): string {
   if (!locale) {
